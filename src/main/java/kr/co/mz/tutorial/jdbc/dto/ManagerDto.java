@@ -8,10 +8,10 @@ public class ManagerDto {
   private String manager_name;
   private String manager_position;
   private long department_id;
-  private Timestamp created_by;
+  private String created_by;
   private Timestamp created_time;
   private String modified_by;
-  private String modified_time;
+  private Timestamp modified_time;
 
 
 }
